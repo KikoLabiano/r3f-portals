@@ -1,0 +1,1 @@
+export { AnimatedModel } from "./AnimatedModel";
